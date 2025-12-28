@@ -4,7 +4,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/React_Native-0.81.5-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-    <img src="https://img.shields.io/badge/Expo-~54.0.0-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+    <img src="https://img.shields.io/badge/Expo-54.0.0-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
     <img src="https://img.shields.io/badge/TypeScript-5.3.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </p>
 </div>
@@ -171,9 +171,9 @@ O app possui um sistema de níveis progressivos baseado em horas acumuladas:
 
 | Nível | Horas Necessárias | Descrição |
 |-------|-------------------|-----------|
-| 🥉 **Bronze** | 0 - 20h | Iniciante |
-| 🥈 **Prata** | 20 - 25h | Muito Bom |
-| 🥇 **Ouro** | 25 - 30h | Excelente |
+| 🥉 **Bronze** | 0 - 19h | Iniciante |
+| 🥈 **Prata** | 20 - 24h | Muito Bom |
+| 🥇 **Ouro** | 25 - 29h | Excelente |
 | 👑 **Pro** | 30h+ | Nível Máximo |
 
 ---
